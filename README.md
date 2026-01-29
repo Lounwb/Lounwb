@@ -26,6 +26,6 @@ I am currently doing research on few-shot learning for Out-of-Distribution (OOD)
 
 ### Opensource Projects
 
-<a href="https://github.com/Lounwb/OwLab">OwLab</a>: Full lifecycle management of ML experiments (tracked & notified).
+<a href="https://github.com/Lounwb/OwLab">OwLab</a>: Full lifecycle management of ML experiments, supporting exp tracking, data management, notifications and multi-backend backup. </br>
 <a href="https://github.com/Lounwb/AirCourse">AirCourse</a>: A modern AI‑powered web tool that turns your university timetable screenshots into clean ICS files ready to import into Apple, Android, HarmonyOS and other calendars. </br>
 <a href="https://github.com/Lounwb/Raspberry-Pi-Conference-Management-System">Synapse</a>: A smart meeting room management system integrating Raspberry Pi face recognition check-in, WeChat Mini Program booking, and Web administration.
